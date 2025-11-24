@@ -1,0 +1,17 @@
+# Build folders
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio folder (prevents locked file errors)
+.vs/
+
+# VS user-specific files
+*.user
+*.suo
+*.cache
+
+# Sensitive config (prevents Google Cloud key leak)
+appsettings.json
+appsettings.*.json

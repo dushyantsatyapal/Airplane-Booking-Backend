@@ -1,0 +1,17 @@
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\bin\Debug\net9.0\AirplaneBooking.Application.deps.json
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\bin\Debug\net9.0\AirplaneBooking.Application.dll
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\bin\Debug\net9.0\AirplaneBooking.Application.pdb
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\bin\Debug\net9.0\AirplaneBooking.Domain.dll
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\bin\Debug\net9.0\AirplaneBooking.Shared.dll
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\bin\Debug\net9.0\AirplaneBooking.Domain.pdb
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\bin\Debug\net9.0\AirplaneBooking.Shared.pdb
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\AirplaneBooking.Application.csproj.AssemblyReference.cache
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\AirplaneBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\AirplaneBooking.Application.AssemblyInfoInputs.cache
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\AirplaneBooking.Application.AssemblyInfo.cs
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\AirplaneBooking.Application.csproj.CoreCompileInputs.cache
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\Airplane.DB2E790C.Up2Date
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\AirplaneBooking.Application.dll
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\refint\AirplaneBooking.Application.dll
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\AirplaneBooking.Application.pdb
+D:\Repo\AirplaneBooking\AirplaneBooking.Application\obj\Debug\net9.0\ref\AirplaneBooking.Application.dll

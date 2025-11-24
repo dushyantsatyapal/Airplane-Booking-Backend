@@ -1,0 +1,11 @@
+D:\Repo\AirplaneBooking\Shared\bin\Debug\net9.0\AirplaneBooking.Shared.deps.json
+D:\Repo\AirplaneBooking\Shared\bin\Debug\net9.0\AirplaneBooking.Shared.dll
+D:\Repo\AirplaneBooking\Shared\bin\Debug\net9.0\AirplaneBooking.Shared.pdb
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\AirplaneBooking.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\AirplaneBooking.Shared.AssemblyInfoInputs.cache
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\AirplaneBooking.Shared.AssemblyInfo.cs
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\AirplaneBooking.Shared.csproj.CoreCompileInputs.cache
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\AirplaneBooking.Shared.dll
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\refint\AirplaneBooking.Shared.dll
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\AirplaneBooking.Shared.pdb
+D:\Repo\AirplaneBooking\Shared\obj\Debug\net9.0\ref\AirplaneBooking.Shared.dll
